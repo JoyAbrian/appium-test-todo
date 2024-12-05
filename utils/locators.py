@@ -15,6 +15,7 @@ class Locators:
     SUBMIT_TODO_BUTTON = "com.ruukaze.simple_todo_app:id/btn_submit"
     DELETE_TODO_BUTTON = "com.ruukaze.simple_todo_app:id/btn_delete"
     BACK_BUTTON = "com.ruukaze.simple_todo_app:id/btn_back"
+    TODO_TOGGLE = "com.ruukaze.simple_todo_app:id/toggle_todo"
 
     # Logout Locators
     PROFILE_TOGGLE = "com.ruukaze.simple_todo_app:id/toggle_profile"
